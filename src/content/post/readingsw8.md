@@ -20,9 +20,7 @@ author = "David Evans"
 
 Optional additional reading: The [Special Competitive Studies Project](https://www.scsp.ai/reports/memostothepresident/) is in some ways a continuation of the NSCAI effort (with some of the same people involved, but unlike the NSCAI report which was requested by the Biden administration, the SCCP memos were not requested by the incoming administration). The memo on [Defense Transition](https://www.scsp.ai/wp-content/uploads/2025/01/Defense-Memo.pdf) is the most relevant.
  
-### Readings for Thursday, 12 March
-
-- Ashley Deeks, _State responsibility for AI mistakes in the resort to force_. Cambridge University Press, January 2026. [[PDF](/docs/deeks2026.pdf)] [[Web Link](https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance/article/state-responsibility-for-ai-mistakes-in-the-resort-to-force/24B4A9DB743A53BCABBA67E536E9C24E)]
+### Reading for Thursday, 12 March
 
 - John von Neumann, [_Can we Survive Technology?_](/docs/vonNeumann1955.pdf), Fortune Magazine, 1955. [[PDF](/docs/vonNeumann1955.pdf)]
 
