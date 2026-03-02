@@ -118,6 +118,19 @@ Many students felt that this moment may be fundamentally different from previous
 
 Some students suggested that if AI continues advancing rapidly, it could theoretically replace nearly all forms of human labor rather than just specific sectors. This raises deeper philosophical concerns about human purpose and identity. Others cautioned against assuming inevitability, pointing out that previous generations also feared total displacement, yet society adapted in unexpected ways. Still, the breadth and speed of AI’s capabilities make this transition feel different. Whether it ultimately proves to be another chapter in a long history of adaptation or a true break from the past remains uncertain.
 
+### Closing Poll
+
+The class ended with a poll:
+
+> _Which worries you most and why?_
+
+- Loss of jobs
+- Authoritarian control
+- Extreme wealth concentration
+- Loss of human purpose
+
+Surprisingly, no one voted for "Loss of jobs". The votes were roughly equally split among the other three choices.
+
 ---
 
 ## Additional References
