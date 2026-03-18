@@ -28,8 +28,9 @@ Evans also stressed the importance of not reading directly from slides during pr
 Following this discussion, Team 4 presented on autonomous weapons and AI-enabled warfare. They clarified that autonomous weapons are not necessarily the same as AI weapons. Autonomous systems can incorporate AI, but they do not always require it. The class discussed whether autonomous weapons should be allowed to make life-or-death decisions, with 75% of students responding that they should not and 25% responding that they should.
 
 <img src="/images/Class14BlogPics/p1.png" width=80% alt=""></img>
-Figure 1: Pulled from class poll 
-Source: autonomous weapons and AI-enabled warfare, 2026
+
+- Figure 1: Pulled from class poll 
+- Source: autonomous weapons and AI-enabled warfare, 2026
 
 The presentation also introduced key legal principles from International Humanitarian Law relevant to autonomous weapons, including the ability to distinguish civilians from combatants, the principle of proportionality in attacks, and the issue of accountability for the use of force. The team also summarized arguments for limiting the autonomy of AI-enabled weapons, including concerns about false positives, automation bias among human operators, and the difficulty of assigning responsibility when accountability becomes diffused across many actors.
 
@@ -38,9 +39,10 @@ Team 4 continued their presentation on autonomous weapons and how the U.S. gover
 The presentation referenced the National Security Commission on Artificial Intelligence (NSCAI) and emphasized that AI may be one of the most consequential inventions of this age. Governments like the U.S. The Department of Defense is shifting resources toward AI development, particularly as competition with China’s People’s Liberation Army (PLA) grows.
 
 <img src="/images/Class14BlogPics/p2.png" width=80% alt=""></img>
-Figure 2: The Commission does not support a global prohibition of AI-enabled and autonomous weapon
+
+- Figure 2: The Commission does not support a global prohibition of AI-enabled and autonomous weapon
 systems. 
-Source: National Security Commission on Artificial Intelligence, 2025
+- Source: National Security Commission on Artificial Intelligence, 2025
 
 Team 4 also introduced the trolley problem to explore ethical dilemmas in autonomous decision-making using Menti polls. Students in the class responded and shared examples while the scenarios were presented, highlighting that real-world decisions are more complex than the binary choices autonomous systems often rely on.
 
@@ -49,15 +51,17 @@ We briefly discussed modern warfare challenges, such as combatants blending in w
 A key issue with autonomous weapon systems is assigning accountability because many people are involved in their development and operation. One discussion question asked whether AWS should be deployed if testing shows they reduce civilian casualties by 40%. Some argued that if the goal is reducing civilian harm, AWS should be considered since human systems already make serious mistakes, such as missile misidentification causing many civilian casualties. Others emphasized that responsibility and oversight remain major concerns even if performance improves. 
 
 <img src="/images/Class14BlogPics/p3.png" width=80% alt=""></img>
-Figure 3: Professor Nehal Bhuta says it is important for the international community to agree on
-guidelines regarding the use of autonomous weapons.
-Source: Edinburgh Law School, Chapter 4: Autonomous Weapon Systems and Risks Associated with AI-Enabled Warfare, 2021
 
-Another question considered whether AI should ever be allowed to authorize lethal force without human approval. Some argued this should never happen due to risks like hacking and the need for human oversight. Others suggested that if AI can make better decisions than humans, greater autonomy might eventually be acceptable as a “lesser evil”. We ended the class on the issue of whether the “black box” nature of AI conflicts with International Humanitarian Law. This looped us back to our discussion on Professor Nehal Bhuta’s views, “There is a risk that accountability becomes so diffuse that it’s hard to identify the individuals or groups of agents responsible for violations and failures. This is a common problem with complex modern technologies”. We ended the importance of accountability and how new frameworks will have to emerge to solve the accountability problem. 
+- Figure 3: Professor Nehal Bhuta says it is important for the international community to agree on
+guidelines regarding the use of autonomous weapons.
+- Source: Edinburgh Law School, Chapter 4: Autonomous Weapon Systems and Risks Associated with AI-Enabled Warfare, 2021
+
+Another question considered whether AI should ever be allowed to authorize lethal force without human approval. Some argued this should never happen due to risks like hacking and the need for human oversight. Others suggested that if AI can make better decisions than humans, greater autonomy might eventually be acceptable as a “lesser evil”. We ended the class on the issue of whether the “black box” nature of AI conflicts with International Humanitarian Law. This looped us back to our discussion on Professor Nehal Bhuta’s views, “There is a risk that accountability becomes so diffuse that it’s hard to identify the individuals or groups of agents responsible for violations and failures. This is a common problem with complex modern technologies”. We ended on the importance of accountability and how new frameworks will have to emerge to solve the accountability problem. 
 
 <img src="/images/Class14BlogPics/p4.png" width=80% alt=""></img>
-Figure 4: Lastly, the same question that was asked in the beginning of the class was asked again at the end and results show a 25% shift in opinion towards allowing autonomous weapons to make life or death decisions.  
-Source: autonomous weapons and AI-enabled warfare, 2026
+
+- Figure 4: Lastly, the same question that was asked in the beginning of the class was asked again at the end and results show a 25% shift in opinion towards allowing autonomous weapons to make life or death decisions.  
+- Source: autonomous weapons and AI-enabled warfare, 2026
 
 Sources:
 -	Fleming, N. (2025, October 29). Why we should limit the autonomy of AI-enabled weapons. Nature. https://www.nature.com/articles/d41586-025-03357-1
@@ -67,5 +71,3 @@ Sources:
 Additional Sources:
 -	Jennifer Belissent. (2026, January 28). Mind the gaps — and the hype — to navigate AI opportunities. Forbes. https://www.forbes.com/sites/snowflake/2026/01/28/mind-the-gaps---and-the-hype---to-navigate-ai-opportunities/
 -	Defence Transition (2025) . The Path to an Innovative and Lethal Military. Memos of the President. https://www.scsp.ai/wp-content/uploads/2025/01/Defense-Memo.pdf
-
-
