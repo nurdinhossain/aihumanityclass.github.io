@@ -139,7 +139,7 @@ slug = "schedule"
   <td>Tuesday 7 Apr</td>
   <td>4</td>
   <td>11</td>
-  <td>3</td>
+  <td>7</td>
   </tr>
   <tr>
   <td>Thursday 9 Apr</td>
@@ -156,7 +156,7 @@ slug = "schedule"
   <td>Thursday 16 Apr</td>
   <td>&ndash;</td>
   <td>&ndash;</td>
-  <td>6, 7</td>
+  <td>6</td>
   </tr>
   <tr style="background-color: #effad1ff;">
   <td>Tuesday 21 Apr</td>
@@ -306,3 +306,15 @@ slug = "schedule"
 
  </tbody>
 </table>
+
+## Expectations
+
+(Last updated on [9 March](/tablemap-10mar/).)
+
+The expectations for presenting teams (both "News" and "Lead"):
+
+   - **Before 5:00pm** on the **day before** you are scheduled to lead (so Monday for Tuesday classes and Wednesday for Thursday classes), share your plans and draft slides with me. **You should do this in an email with all of the team members who are contributing cc'd so I can reply-all to everyone.** The "before 5pm" deadline assumes that if I am able to get you feedback before 8pm you will have time to make revisions before class. If not, you should get me the slides before noon.
+
+   - **Be creative!** All presenting teams so far have followed fairly closely the same format. This isn't a bad format, but it is definitely not the best for most topics. Teams are encouraged to incroporate more interesting activities and use the class time in more varied ways.
+
+   - **Better presentations.** I will provide some more guidance on general ways to improve presentations in Tuesday's class (and maybe more in later classes), and although you are not required to follow everything I say it is expected that you'll design presentations in ways that are mindful of it. 
