@@ -18,6 +18,18 @@ During this class, the news team first discussed the ever-evolving opposition to
 
 ---
 
+# News Team: QuitGPT
+
+The [news team](https://docs.google.com/presentation/d/1MTs4j5izavqyLpqwdQqlO1lofTqx7Yyq6W1sndQXbUg/edit?usp=sharing) began the class by discussing the [QuitGPT](https://quitgpt.org/) movement and ChatGPT’s growing controversy. The QuitGPT movement describes itself as “a grassroots campaign by the people, for the people” that is “organizing Americans and people around the world to quit ChatGPT.” They cite OpenAI’s strong ties to the Trump administration and the Pentagon, the adage of advertisements to ChatGPT, and general corruption within the company as the main catalysts of the campaign. While the website claims that over 4 million people have taken action, the news team shared that other unbiased sources estimate that it’s closer to 1-2 million – still a very large number.
+
+The discussion then pivoted to focus on the inclusion of ads in ChatGPT. Ads are only present for those with no subscription or the ChatGPT Go subscription, and they only appear after the response, never inside of it. The news team pointed out that OpenAI claims that the ads won’t impact the bot’s responses, and that ChatGPT won’t even know that an ad is coming. OpenAI also said that they’ll only advertise to people 18 years or older. While ChatGPT doesn’t explicitly ask for the user’s age, it can be estimated by looking at “general topics you talk about or the times of day you use ChatGPT”, according to [OpenAI’s website](https://help.openai.com/en/articles/12652064-age-prediction-in-chatgpt).
+
+The class discussion focused on overall sentiment about the inclusion of ads in AI chatbots and the QuitGPT movement. Some students felt that the ads are a necessary evil. OpenAI is drowning in debt and must generate revenue somehow. Also, there are no successful platforms that don’t utilize ads; Google searches incorporate advertised websites. Other students argued that this may only be the beginning. The news team mentioned that ChatGPT only advertises for a handful of companies right now – imagine what the responses will look like when they advertise for anyone who pays! One student brought up the fact that ads potentially will affect model outputs in the future. The class also discussed the idea that some topics shouldn’t incorporate ads at all, such as health-related queries and other more serious matters.
+
+The consensus on the QuitGPT movement seemed to be a sense of underwhelm. Some sources argue that it has [real potential to make an impact](https://www.theguardian.com/commentisfree/2026/mar/04/quit-chatgpt-subscription-boycott-silicon-valley), while others call it [more of a meme than a movement](https://sfstandard.com/2026/03/04/quitgpt-meme-movement/). Appfigures reported that [downloads of Anthropic's Claude rose by over 200% in the month of February](https://appfigures.com/resources/insights/claude-super-bowl-mobile-growth), largely due to its Superbowl ad. While ChatGPT isn't going anywhere yet, its place as the most popular chat bot is being more unstable, and the QuitGPT movement will likely add to that instability.
+
+---
+
 # Doomerism vs Optimism
 
 Professor Evans talks about a liitle bit about doomerism versus optimism. HE mentions that there is a lot of doomerism attitudes in class at the beginning of the semester as many people is kind of afraid of the development of AI. As we went into this semester, we started exploring the pros and cons of AI with more critical thinking and at a netual standpoint.
